@@ -10,7 +10,7 @@ import javax.net.ssl.HttpsURLConnection;
 public class Main {
 
     public static String callAPI(String prompt) {
-        String url = "URL PROVIDER", apiKey = "YOUR API KEY HERE", model = "THE SPECIFIC MODEL HERE";
+        String url = "PROVIDER URL", apiKey = "YOUR API KEY HERE", model = "THE SPECIFIC MODEL HERE";
 
         try {
             URL urlObj = new URL(url);
