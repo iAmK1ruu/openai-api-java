@@ -29,7 +29,7 @@ To use this application, you will need:
 
 1. **Clone or download** this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/openai-api-java.git
+    git clone https://github.com/iAmK1ruu/openai-api-java.git
     ```
 2. **Open the project** in your favorite Java IDE (e.g., Eclipse, IntelliJ IDEA) or a text editor.
 
